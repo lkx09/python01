@@ -1,2 +1,4 @@
-# python01
- python study
+# python学习
+
+一点一点来
+ 
